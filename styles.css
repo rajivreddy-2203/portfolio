@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;    
+}
+img{
+    width: 10px;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+
+#header-ali{
+    padding-left: 600px;
+}
+#header{
+    background-color: black;
+    width: 100%;
+}
+
+#header-name{
+    padding-left: 20px;
+}
+
+
+#about_details{
+    width: auto;
+    height: 500px;
+    background-color: black;
+}
+#details_about{
+    padding-top: 130px;
+}
+#education_details{
+    background-color: rgb(39, 38, 38);
+}
+#edu-1{
+    padding-bottom: 30px;
+}
+#edu-2{
+    padding-top: 70px;
+}
+#Projects_details{
+    background-color: black;
+    height: 500px;
+}
+#contact_details{
+    background-color: rgb(39, 38, 38);
+    height: 300px;
+    padding-left: 500px;
+    padding-top: 110px;
+}
+#footer{
+    background-color: black;
+    height: 70px;
+    padding-left: 580px;
+    padding-top: 20px;
+}
+#info{
+    padding-top: 100;
+    position: absolute;
+}
+.education{
+    height: 450px;
+    padding-top: 120px;
+}
+
+.nav-item{
+    padding-left: 17px;
+}
+.nav-item.hover{
+    color: black;
+}
+.bi{
+    padding-left: 10px;
+}
