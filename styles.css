@@ -3,11 +3,8 @@
     padding: 0;
     scroll-behavior: smooth;    
 }
-nav{
-    background-color: black;
-}
 img{
-    width: 10px;
+    width: auto;
     height: 500px;
 }
 a{
@@ -64,14 +61,13 @@ a:link{
 #contact_details{
     background-color: rgb(39, 38, 38);
     height: 300px;
-    padding-left: 500px;
-    padding-top: 110px;
+    padding-left: 40%;
+    padding-top: 10%;
 }
 #footer{
     background-color: black;
-    height: 70px;
-    padding-left: 580px;
-    padding-top: 20px;
+    height: auto;
+    padding-left: 45%;
 }
 #info{
     padding-top: 100;
@@ -82,12 +78,6 @@ a:link{
     padding-top: 120px;
 }
 
-.nav-item{
-    padding-left: 17px;
-}
-.nav-item.hover{
-    color: black;
-}
 .bi{
     padding-left: 10px;
 }
